@@ -20,8 +20,8 @@
     <item
         android:id="@+id/actiondelete"
         android:icon="?attr/action_delete"
-        app:showAsAction="ifRoom"
-        android:title="@string/delete" />
+        android:title="@string/delete"
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/actionshare"
         android:icon="?attr/action_share"
