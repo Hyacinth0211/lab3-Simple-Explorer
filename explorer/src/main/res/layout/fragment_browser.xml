@@ -30,5 +30,5 @@
         android:layout_gravity="bottom|right"
         android:layout_margin="20dp"
         android:src="?attr/fab_drawable"
-        fab:fab_colorNormal="?colorAccent" />
+        fab:fab_colorNormal="@android:color/holo_blue_bright" />
 </FrameLayout>
