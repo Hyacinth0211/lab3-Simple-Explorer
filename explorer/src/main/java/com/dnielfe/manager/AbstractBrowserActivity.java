@@ -36,7 +36,6 @@ import java.util.Locale;
 
 public abstract class AbstractBrowserActivity extends ThemableActivity implements
         DirectoryNavigationView.OnNavigateListener, BrowserFragment.onUpdatePathListener {
-
     public static final String EXTRA_SHORTCUT = "shortcut_path";
     public static final String TAG_DIALOG = "dialog";
 
